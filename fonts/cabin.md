@@ -10,6 +10,11 @@ medium
 
 condensed [macro: \cabincondensed]
 
+```
+\usepackage[sfdefault,condensed]{cabin}
+\usepackage[T1]{fontenc}
+```
+
 Small caps are available in non-condensed series.
 
 

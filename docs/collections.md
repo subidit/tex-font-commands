@@ -78,6 +78,21 @@ These packages are currently available:
 5. euscript – old name of the eucal package, now obsolete but included for convenience in printing pre-existing documents
 
 
+# fundus – Providing LATEX access to various font families
+
+Calligraphic or handwritting fonts.
+
+1. Peter Vanroose’s calligra font (package fundus-calligra);
+2. the emulation of Peter Vanroose’s handwriting (package fundus-script);
+3. the Washington University cyrillic fonts (package fundus-cyr);
+4. the la and lla children's handwriting fonts (package fundus-la);
+5. the Computer Modern outline fonts (package fundus-outline);
+6. a group of ‘Startrek’ fonts (package fundus-startrek, which contains the fonts it supports);
+7. the Sütterlin font (package fundus-sueterlin);
+8. the twcal calligraphic fonts (package fundus-twcal); and
+9. the va handwriting font (package fundus-va).
+
+
 # qualitype – The QualiType font collection
 
 These 45 fonts were created by QualiType.

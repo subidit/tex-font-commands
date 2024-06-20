@@ -1,8 +1,8 @@
 # noto
 
-Condensed variants have been moved into a separate notocondensed package.
-
 This package provides LATEX, pdfLATEX, XELATEX and LuaLATEX support for the NotoSerif, NotoSans and NotoSansMono families of fonts, designed by Steve Matteson for Google.
+
+Condensed variants have been moved into a separate notocondensed package. (Not working in fontenc.)
 
 
 | NotoSerif               | NotoSans                          | NotoSansMono           |
@@ -25,6 +25,7 @@ This package provides LATEX, pdfLATEX, XELATEX and LuaLATEX support for the Noto
 
 
 # notocondensed
+*Not Working with fontenc T1*
 
 ```
 \usepackage{notocondensed}
