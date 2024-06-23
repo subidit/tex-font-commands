@@ -38,6 +38,83 @@ A set of fonts for use as “drop-in” replacements for Adobe’s basic set, co
 10. URW Palladio L (substituting for Adobe’s Palatino).
 
 
+
+## Similar fonts
+
+### HELVETICA
+1. tgheros TEX Gyre Heros URW Nimbus Sans L qhv
+2. helvet phv
+3. uarial URW A030
+4. Archivo
+5. arimo Arimo
+
+### ITC Avant Garde Gothic
+1. tgadventor TEX Gyre Adventor URW Gothic L qag
+2. QT Avanti
+
+### OPTIMA
+1. Biolinum 
+2. URW Classico
+3. Epigrafica
+4. Libertinus Sans
+5. Marcellus
+6. QT Optimum fontspec
+
+### TIMES
+1. tgtermes TEX Gyre Termes	URW Nimbus Roman No9 L qtm
+2. mathptmx Times ptm
+3. Linux Libertine
+4. TX Fonts
+5. New TX (enhanced versions of the TX Fonts)
+6. Stix
+7. Tinos
+8. XITS based on [STIX fonts]
+9. Romande ADF (substitute for Times, Tiffany or Caslon.)
+
+### PALATINO
+1. tgpagella TEX Gyre Pagella URW Palladio L qpl
+2. palatino Palatino ppl
+3. Domitian
+4. KP Serif
+5. New PX
+6. PX Fonts
+7. QT Palatine
+
+### BOOKMAN
+1. tgbonum TEX Gyre Bonum URW Bookman L qbk
+2. bookman Bookman pbk
+3. Kerkis
+
+### Century Schoolbook
+1. tgschola TEX Gyre Schola	URW Century Schoolbook L qcs
+2. ScholaX
+3. QT School Century
+
+### CHARTER
+1. charter Charter bch
+2. Charter BT
+3. Charis SIL
+4. Bera Serif
+5. Bitter
+6. DejaVu Serif 
+
+### ADOBE UTOPIA (Baskerville and Walbaum as influences)
+1. utopia Utopia put
+2. fourier Fourier put
+3. Heuristica
+4. Erewhon
+5. Venturis ADF No2
+6. linguisticspro ~ Utopia Nova
+
+### Bitstream Vera Sans
+1. Bera and Bera Sans
+2. Arev
+
+### BEMBO
+1. ETbb
+2. fbb
+
+
 # bitstrea – Support for use of Bitstream fonts
 
 Font metrics, dvips maps, and macro support in LATEX2ε, for Bitstream fonts that were (allegedly) freely available at some time. All the fonts are listed for purchase on font distribution sites.
@@ -77,6 +154,54 @@ These packages are currently available:
 4. eucal – Makes \mathcal use Euler script instead of the usual Computer Modern calligraphic alphabet
 5. euscript – old name of the eucal package, now obsolete but included for convenience in printing pre-existing documents
 
+
+# GFS – The GFS font collection
+
+The Greek Font Society has made a large number of fonts publicly available, and this collection reflects those that have been adapted, by Tsolomitis and others, for use with LATEX. The collection comprises:
+
+1. GFS Artemisia, a relatively modern general-purpose font;
+2. GFS Baskerville, based on Baskerville’s classic font;
+3. GFS Bodoni, based on Bodoni’s 19th century work;
+4. GFS Didot, based on Didot’s 1805 font;
+5. GFS Neo-Hellenic, a version of a font developed in Britain in the early 20th century; and
+6. GFS Porson, developed from the early 19th century font based on Porson’s writing.
+
+The fonts, except Baskerville and Porson, support the Latin alphabet as well as the Greek alphabet. Neo Hellenic has been matched to the existing CM bright set of mathematics fonts.
+
+
+# ADF Fonts for TeX
+
+1. Baskervald ADF Std
+2. Berenis ADF Pro
+3. Electrum ADF Std
+4. Libris ADF Std
+5. Romande ADF Std
+
+## Also from ADF - Arkandis Digital Foundry, Hirwen Harendal
+
+1) Accanthis-Std Serie  
+2) Aurelis-Std           
+3) Baskervald-Std            
+4) Berenis-Pro (+math)     
+5) Electrum-Exp     
+6) Gillius Collection   
+7) Ikarius-Serie           
+8) Irianis-Std         
+9) Libris-Std      
+10) NeoGothis-Std           
+11) Mekanus-Std        
+12) Oldania-Std               
+13) Romande-Collection  
+14) Solothurn-Std     
+15) Tribun-Std                 
+16) Universalis-std
+17) MintSpirit              
+Mintysis 
+
+### DINGBATS
+- OrnementsADF
+- SymbolADF Bullets and arrows
+- KeypadADF   
 
 # fundus – Providing LATEX access to various font families
 
