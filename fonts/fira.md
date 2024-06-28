@@ -1,4 +1,4 @@
-# Fira 
+# Fira Sans
 
 Designed by Erik Spiekermann and Ralph du Carrois of Carrois Type Design.
 
