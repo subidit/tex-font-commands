@@ -23,8 +23,7 @@
 - Coelacanth is inspired by the classic Centaur type design of Bruce Rogers, described by some as the most beautiful typeface ever designed. It aims to be a professional quality type family for general book typesetting.
 - Bera Sans (a Frutiger descendant), is a version of Bitstream Vera Sans slightly enhanced for use with TEX. Another version is available with Arev which has math support.
 - The DejaVu fonts are derived from the Vera fonts and contain more characters and styles. Other implementations of the Vera fonts are the Bera Fonts.
-- The Iwona fonts are an alternative version of the Kurier fonts.
-The difference lies in the absence of ink traps which typify the Kurier font.
+- The Iwona fonts are an alternative version of the Kurier fonts. The difference lies in the absence of ink traps which typify the Kurier font.
 
 
 
